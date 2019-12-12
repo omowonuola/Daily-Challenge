@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <abbr title="American English">"AE"</abbr> varieties include many patterns of pronunciation, vocabulary, grammar, and particularly spelling that are unified nationwide but distinct from other English dialects around the world.
+
+    <p>“x” = 5</p>
+    <p>A simple math equation: <var>x</var> = 3 + 2; </p>.
+  </body>
+</html>
